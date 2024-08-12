@@ -29,9 +29,7 @@ To get this project up and running locally on your machine, follow these simple 
 
 Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/alwaysajaykr18/secure-user-authentication.git
+
 Navigate to the project directory:
 
 bash
@@ -87,12 +85,8 @@ This project is licensed under the MIT License. See the LICENSE file for details
 🌟 Acknowledgments
 Thanks to all the contributors who helped in improving this project.
 Inspired by various online resources and tutorials on web design.
-📫 Contact
-Feel free to reach out if you have any questions or suggestions:
 
 
 
-Email: ajaynayak2531@gmail.com
-Twitter: @alwaysajaykr18
-GitHub: alwaysajaykr18
-Thank you for visiting the Secure User Authentication project! We hope you find it useful and informative. Happy coding! 🚀
+
+
